@@ -14,3 +14,5 @@ This repository contains files for a recommender system project
 * [Cosine similarity with bag of words and tf-idf](https://github.com/ecbenezra/recommender-system/blob/master/Cosine-similarity-with-NLP-bow.ipynb) - a first pass at using NLP to recommend movies using both cosine similarity and then order those results by their weighted IMDB ratings. This does not include any personalization and has no user data. This method is good for linking movies by underlying thematic elements. See analysis in the notebook for more information.
 
 * [Collaborative recommender using SVD](https://github.com/ecbenezra/recommender-system/blob/master/collaborative-recommender-svd.ipynb) - using ratings data, predicting user ratings of movies they haven't watched yet.
+
+* [Hybrid recommender](https://github.com/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb) - a one-two punch of the recommender system, this allows a user to input a movie title and get back a curated list of movies that are similar to the movie in question, ordered by rating prediction.
