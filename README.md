@@ -15,4 +15,4 @@ This repository contains files for a recommender system project
 
 * [Collaborative recommender using SVD](https://github.com/ecbenezra/recommender-system/blob/master/collaborative-recommender-svd.ipynb) - using ratings data, predicting user ratings of movies they haven't watched yet.
 
-* [Hybrid recommender](https://github.com/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb) - a one-two punch of the recommender system, this allows a user to input a movie title and get back a curated list of movies that are similar to the movie in question, ordered by rating prediction.
+* [Hybrid recommender](https://github.com/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb) - a one-two punch of the recommender system, this allows a user to input a movie title and get back a curated list of movies that are similar to the movie in question, ordered by rating prediction. If the notebook doesn't load, you can also view it [here](https://nbviewer.jupyter.org/github/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb)
