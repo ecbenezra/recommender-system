@@ -23,4 +23,5 @@ This repository contains files for a recommender system project
 
 Special thanks to the following:  
 * David Reed 
+* Jeff Kessler  
 * Zachary White
