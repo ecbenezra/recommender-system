@@ -19,6 +19,12 @@ This repository contains files for a recommender system project
 
 * [Hybrid recommender](https://github.com/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb) - a one-two punch of the recommender system, this allows a user to input a movie title and get back a curated list of movies that are similar to the movie in question, ordered by rating prediction. If the notebook doesn't load, you can also view it [here](https://nbviewer.jupyter.org/github/ecbenezra/recommender-system/blob/master/hybrid-recommender-system.ipynb)
 
+## Resources used:
+
+* [Practical Recommender Systems - Kim Falk](https://www.manning.com/books/practical-recommender-systems)
+* [How Does The Netflix Recommend Movies? - Luis Serrano](https://youtu.be/ZspR5PZemcs)
+* [Singular Value Decomposition Lecture - Leskovec, Rajaraman, and Ullman](https://www.youtube.com/watch?v=P5mlg91as1c)
+* [Surprise Library](http://surpriselib.com/) - a Python scikit building and analyzing recommender systems.
 
 
 Special thanks to the following:  
